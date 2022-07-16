@@ -1,6 +1,0 @@
-Link data source:
-https://ourworldindata.org/coronavirus
-In this dashboard, data are available from January 2020 to April 2022.
-
-Link shiny:
-https://safirawp.shinyapps.io/covid_dashboard_capstoneproject/
